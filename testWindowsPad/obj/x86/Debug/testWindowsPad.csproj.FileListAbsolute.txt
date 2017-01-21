@@ -1,0 +1,8 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\bin\Debug\testWindowsPad.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\bin\Debug\testWindowsPad.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\obj\x86\Debug\testWindowsPad.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\obj\x86\Debug\testWindowsPad.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\obj\x86\Debug\testWindowsPad.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\obj\x86\Debug\testWindowsPad.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\WindowsGame1\testWindowsPad\testWindowsPad\obj\x86\Debug\WindowsFormsApplication1.FormTestGamePad.resources
